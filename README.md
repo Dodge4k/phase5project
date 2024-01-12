@@ -1,3 +1,12 @@
+Project and Developer Details
+Project Name: CI/CD Deployment for SpringBoot Application.
+Developer: Mr Innocent Malwane.
+
+Contact Information:
+- Email: innocented00@gmail.com
+- Phone: +27 68 127 3330
+
+
 CI/CD Deployment for Springboot Application.
 Course-end Project 1
 Description
